@@ -5,7 +5,7 @@ ProjectName : Created self data structures.
 
 Technology: C++ Programming
 
-  Author: Neha Navin Desai
+  Author: Varad Nitin Muley
 
 Project Overview
 --------------------------------------------------------
