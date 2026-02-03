@@ -3,7 +3,7 @@ using namespace std;
 
 ////////////////////////////////////////////////////////////////////////////////////
 //
-//  class :         QueueX
+//  class :         QueueX  
 //  Description :   Generic implementation of Queue    
 //  Author  :       Varad Nitin Muley
 //
@@ -281,3 +281,4 @@ int main()
 {
     return 0;
 }
+
