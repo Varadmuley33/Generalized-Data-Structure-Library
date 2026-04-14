@@ -85,4 +85,4 @@ All operations are implemented manually using pointer logic.
 
 1. Compile the code:
    ```bash
-   g++ program.cpp -o program
+   g++ Generalized_Data_Structure_Library.cpp -o programexe
