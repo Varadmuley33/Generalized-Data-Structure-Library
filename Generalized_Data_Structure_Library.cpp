@@ -6,7 +6,7 @@
 //                     library using C++ and object-oriented programming concepts.
 //                     It provides complete implementations of four linked list types:
 //                     1) Singly Linear Linked List
-//                     2) Singly Circular Linked List
+//                     2) Singly Circular Linked List     
 //                     3) Doubly Linear Linked List
 //                     4) Doubly Circular Linked List
 //
