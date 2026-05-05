@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  Project Name   :   Generic Data Structure Library
+//  Project Name   :   Generic Data Structure Library  
 //
 //  Description    :   This project implements a generalized, menu-driven data structure
 //                     library using C++ and object-oriented programming concepts.
